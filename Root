@@ -1,3 +1,4 @@
+[
 {
         "device_id": "device123",
         "key": "key12345",
@@ -10,3 +11,4 @@
         "expirydate": "05-08-2026",
         "Allowoffline": false
     }
+]

@@ -34,6 +34,12 @@
         "key": "subas123",
         "expirydate": "30-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "cdd86aceac794e34",
+        "key": "anjan123",
+        "expirydate": "08-09-2026",
+        "Allowoffline": false
     }
 
 ]

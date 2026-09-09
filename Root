@@ -38,14 +38,14 @@
 {
         "device_id": "cdd86aceac794e34",
         "key": "anjan123",
-        "expirydate": "08-09-2026",
+        "expirydate": "08-08-2026",
         "Allowoffline": false
     },
 
 {
         "device_id": "aea5e45150973bd8",
         "key": "rabi123",
-        "expirydate": "05-10-2026",
+        "expirydate": "05-09-2026",
         "Allowoffline": false
     }
 ]
